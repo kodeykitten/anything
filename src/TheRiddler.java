@@ -12,9 +12,9 @@ String answer=JOptionPane.showInputDialog(null, "give me food and i will live gi
 
 	
 if (answer.equals("fire")) {
-	JOptionPane.showMessageDialog(null, "maybe....ok fine but give me a sticky note!");
+	JOptionPane.showMessageDialog(null, "maybe....ok fine u got it right adios!");
 }else {
-	JOptionPane.showMessageDialog(null, "no it was fire! nice try,remember give me a sticky note if you like riddles!");
+	JOptionPane.showMessageDialog(null, " hola!!no it was fire. nice try!");
 }
 		
 	}
